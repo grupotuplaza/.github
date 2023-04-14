@@ -19,4 +19,6 @@ Some of our features and benefits include:
 
 You can order from us by visiting our website [https://tuplazacolombia.co/](https://tuplazacolombia.co/) or by downloading our app from the App Store or Google Play. You can also follow us on Instagram [@tuplazacolombia](https://www.instagram.com/tuplazacolombia/) to see more of our products and promotions.
 
-Thank you for choosing TuPlaza! 😊❤️
+<p align="center">
+  <b>Thank you for choosing TuPlaza! 😊❤️</b>
+</p>
