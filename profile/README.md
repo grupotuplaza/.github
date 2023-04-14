@@ -1,6 +1,6 @@
 # Welcome to TuPlaza 🍏🥕🥩🧀🥚
 
-![TuPlaza logo]([https://tuplazacolombia.co/images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fco.linkedin.com%2Fcompany%2Ftuplaza-colombia&psig=AOvVaw2YZiO0z68yaVSSXPlu1QMS&ust=1681574695389000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiCmofgqf4CFQAAAAAdAAAAABAD))
+![TuPlaza logo](https://media.licdn.com/dms/image/C4E0BAQE5v9XfTjMsDA/company-logo_200_200/0/1595549615600?e=2147483647&v=beta&t=xzLlkYSj7WSCgubaCConJtPXv5uslULvrnl4wh6xUOU)
 
 We are TuPlaza, a online platform that delivers fresh products from the countryside to your door in less than 24 hours. We are based in Colombia and we serve several cities, including Cali, Pereira, Medellín, Cartagena, Barranquilla and Bogotá. We offer more than 130 products, such as fruits, vegetables, meats, dairy, eggs and more. We work with local farmers and producers who share our passion for quality and sustainability. Our mission is to bring you the best of the countryside from start to finish. 🌱🚚🏡
 
