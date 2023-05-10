@@ -1,7 +1,8 @@
 # Welcome to TuPlaza 🍏🥕🥩🧀🥚
-<h1 align="center">
-[![TuPlaza logo](https://tuplazacolombia.co/img/il_homes.cc123e67.svg)](https://tuplazacolombia.co)
-</h1>
+<p align="center">
+  <img src="https://tuplazacolombia.co/img/il_homes.cc123e67.svg" alt="TuPlaza logo">
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=fira+code&color=5143F7FF&lines=Hello+There!+%F0%9F%91%8B;Welcome+to+Our+GitHub+Repo!;🍏🥕🥩🧀🥚🍎🍊🍌🍉🥦🥬🥒🌽🍏🥕🥩🧀🥚🍎🍊🍌🍉🥦🥬🥒🌽;🍏🥕🥩🧀🥚🍎🍊🍌🍉🥦🥬🥒🌽🍏🥕🥩🧀🥚🍎🍊🍌🍉🥦🥬🥒🌽">
