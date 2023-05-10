@@ -1,6 +1,6 @@
 # Welcome to TuPlaza 🍏🥕🥩🧀🥚
 
-[![TuPlaza logo](https://scontent.fctg3-1.fna.fbcdn.net/v/t39.30808-6/309707757_506734831462464_5838747455168079895_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=HzQkVryj7roAX9AYO0b&_nc_ht=scontent.fctg3-1.fna&oh=00_AfBVQTsy_FZfFqpXwe4r0Mn41MxyOb8gtiXmVlayeLMuOw&oe=643E695F)](https://tuplazacolombia.co)
+[![TuPlaza logo]([https://scontent.fctg3-1.fna.fbcdn.net/v/t39.30808-6/309707757_506734831462464_5838747455168079895_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=HzQkVryj7roAX9AYO0b&_nc_ht=scontent.fctg3-1.fna&oh=00_AfBVQTsy_FZfFqpXwe4r0Mn41MxyOb8gtiXmVlayeLMuOw&oe=643E695F](https://tuplazacolombia.co/img/il_homes.cc123e67.svg))](https://tuplazacolombia.co)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=fira+code&color=5143F7FF&lines=Hello+There!+%F0%9F%91%8B;Welcome+to+Our+GitHub+Repo!;🍏🥕🥩🧀🥚🍎🍊🍌🍉🥦🥬🥒🌽🍏🥕🥩🧀🥚🍎🍊🍌🍉🥦🥬🥒🌽;🍏🥕🥩🧀🥚🍎🍊🍌🍉🥦🥬🥒🌽🍏🥕🥩🧀🥚🍎🍊🍌🍉🥦🥬🥒🌽">
